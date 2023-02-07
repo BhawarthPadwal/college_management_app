@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">CollegeMan</string>
+    <string name="clg_name">CollegeName</string>
+    <string name="ramnarain_ruia_autonomous_college">Ramnarain Ruia Autonomous College</string>
+    <string name="college_logo">college_logo</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">logout</string>
+    <string name="academics_logo">academics_logo</string>
+
+</resources>

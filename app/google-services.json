@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197301455798",
+    "project_id": "secondtime-755e6",
+    "storage_bucket": "secondtime-755e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197301455798:android:62ac66787fbe12bdae0f17",
+        "android_client_info": {
+          "package_name": "com.example.trialtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197301455798-2n9526jogbi31l1rr95lf7pj0tp8gjbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0jua5a8Pigz30TaFhpTTTxBTJKfm99nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197301455798-2n9526jogbi31l1rr95lf7pj0tp8gjbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
